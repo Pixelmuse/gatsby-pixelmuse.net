@@ -15,7 +15,7 @@ function Index() {
   return (
     <main>
       <Helmet>
-        <title>Gatsby + Node.js (TypeScript) API</title>
+        <title>Pixelmuse.net - Dev & Gamer Sandbox</title>
       </Helmet>
       <h1>Gatsby + Node.js (TypeScript) API</h1>
       <h2>
