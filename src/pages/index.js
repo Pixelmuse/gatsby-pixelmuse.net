@@ -17,7 +17,7 @@ function Index() {
       <Helmet>
         <title>Pixelmuse.net - Dev & Gamer Sandbox</title>
       </Helmet>
-      <h1>Gatsby + Node.js (TypeScript) API</h1>
+      <h1>Gatsby + Node.js (TypeScript) API Sandbox</h1>
       <h2>
         Deployed with{' '}
         <a
