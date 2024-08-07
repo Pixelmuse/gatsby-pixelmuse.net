@@ -17,7 +17,7 @@ function Index() {
       <Helmet>
         <title>Pixelmuse.net - Dev & Gamer Sandbox</title>
       </Helmet>
-      <h1>Gatsby + Node.js (TypeScript) API Sandbox</h1>
+      <h1>Pixelmuse's API Sandbox</h1>
       <h2>
         Deployed with{' '}
         <a
@@ -29,7 +29,7 @@ function Index() {
         </a>
         !
       </h2>
-      <p>
+      <p>I really need to do something with this page. In the meantime, go fuck off somewhere. k thx bai!
         <a
           href="https://github.com/vercel/vercel/tree/main/examples/gatsby"
           target="_blank"
